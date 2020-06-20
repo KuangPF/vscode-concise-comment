@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:vscode-concise-comment.helloWorld"
+    "onCommand:vscode-concise-comment.comment"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "vscode-concise-comment.helloWorld",
-        "title": "Hello World"
+        "command": "vscode-concise-comment.comment",
+        "title": "concise comment"
       }
     ]
   },
