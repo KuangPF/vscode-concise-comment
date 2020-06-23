@@ -1,3 +1,3 @@
 ## vscode-concise-comment README
 
-dev...
+status: **WIP**
